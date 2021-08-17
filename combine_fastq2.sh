@@ -16,7 +16,7 @@ mkdir -p combinedFiles
 
 num=1
 # in a for loop, cat every 2 files together, and place into the new directory
-for i in $(seq 892 2 929)
+for i in $(seq 882 2 929)
 do
 
 echo "SRR11313${i} starting"
