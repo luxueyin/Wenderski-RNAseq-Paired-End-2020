@@ -301,7 +301,3 @@ Once this text file is loaded onto github, you can get the RAW url for the text 
 We have setup a hub using the TrackHubmm10.txt file. The link to this file is:
 We have setup a hub using the TrackHubmm10.txt file. The link to this file is: http://microgliome.biochem.ubc.ca/BigWigs/Wenderski_RNAseq/TrackHubmm10_Wenderski_Master.txt
 If you paste this link into the "My Hubs" entry area: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&hubUrl=http://microgliome.biochem.ubc.ca/BigWigs/Wenderski_RNAseq/TrackHubmm10_Wenderski_Master.txt you can view the hub. You can edit the hub, add tracks etc. Then just check the hub, reload it and go!
-
-
-
-hello world
